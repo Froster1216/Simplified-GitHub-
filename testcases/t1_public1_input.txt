@@ -1,0 +1,5 @@
+register Alice
+register Bob
+register Charlie
+users
+quit

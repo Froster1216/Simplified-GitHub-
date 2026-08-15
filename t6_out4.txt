@@ -1,0 +1,47 @@
+-----------------------------------------------------
+| Welcome to Version Control System 2011 (VCS2011)! |
+-----------------------------------------------------
+
+vcs2011>
+Attempting to register new user: Alice
+Registration successful.
+User: Alice
+vcs2011>
+Attempting to create repository: Alice/Repo
+Repository creation successful.
+Repository is at index 0 in the array of repositories.
+vcs2011>
+Attempting to create branch feat1 in repository Alice/Repo
+Branch creation successful
+vcs2011>
+Attempting to create branch feat2 in repository Alice/Repo
+Branch creation successful
+vcs2011>
+Attempting to create branch feat3 in repository Alice/Repo
+Branch creation successful
+vcs2011>
+Pull request #1 has been created in Alice/Repo.
+vcs2011>
+Pull request #2 has been created in Alice/Repo.
+vcs2011>
+Pull request #3 has been created in Alice/Repo.
+vcs2011>
+#1: PR one in Alice/Repo
+Author: Alice
+From Branch: Alice/Repo/feat1: 065d7f1e25aa62cebca623a5c2beb4b21cbc0a97 (created by Alice)
+To Branch: Alice/Repo:main
+Status: Open
+vcs2011>
+#2: PR two in Alice/Repo
+Author: Alice
+From Branch: Alice/Repo/feat2: 065d7f1e25aa62cebca623a5c2beb4b21cbc0a97 (created by Alice)
+To Branch: Alice/Repo:main
+Status: Open
+vcs2011>
+#3: PR three in Alice/Repo
+Author: Alice
+From Branch: Alice/Repo/feat3: 065d7f1e25aa62cebca623a5c2beb4b21cbc0a97 (created by Alice)
+To Branch: Alice/Repo:main
+Status: Open
+vcs2011>
+Quitting...

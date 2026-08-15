@@ -1,0 +1,12 @@
+register Alice
+repocreate Alice Repo 2026-03-01T10:00:00Z
+branchcreate Alice/Repo feat1 Alice
+branchcreate Alice/Repo feat2 Alice
+branchcreate Alice/Repo feat3 Alice
+prcreate Alice Alice/Repo:feat1 Alice/Repo:main "PR one"
+prcreate Alice Alice/Repo:feat2 Alice/Repo:main "PR two"
+prcreate Alice Alice/Repo:feat3 Alice/Repo:main "PR three"
+prinfo Alice/Repo 1
+prinfo Alice/Repo 2
+prinfo Alice/Repo 3
+quit

@@ -1,0 +1,8 @@
+-----------------------------------------------------
+| Welcome to Version Control System 2011 (VCS2011)! |
+-----------------------------------------------------
+
+vcs2011>
+User NonExistent does not exist.
+vcs2011>
+Quitting...

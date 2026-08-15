@@ -1,0 +1,4 @@
+register Alice
+repocreate Alice MyProject 2026-03-01T10:00:00Z
+repoinfo Alice/MyProject
+quit

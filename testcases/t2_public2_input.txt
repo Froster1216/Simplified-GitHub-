@@ -1,0 +1,4 @@
+register Alice
+repocreate Alice Repo1 2026-03-01T10:00:00Z
+repocreate Alice Repo1 2026-03-01T11:00:00Z
+quit

@@ -1,0 +1,10 @@
+register Alice
+register Bob
+repocreate Alice Repo 2026-03-01T10:00:00Z
+push Alice/Repo Alice "Add readme" 2026-03-01T11:00:00Z
+branchcreate Alice/Repo dev Alice
+forkrepo Bob Alice/Repo Repo
+repoinfo Bob/Repo
+userinfo Bob
+repos
+quit

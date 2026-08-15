@@ -1,0 +1,11 @@
+-----------------------------------------------------
+| Welcome to Version Control System 2011 (VCS2011)! |
+-----------------------------------------------------
+
+vcs2011>
+Attempting to register new user: ThisIsAnExtremelyLongUsernameExceedingTheMaximumAllowedLength
+Username length exceeded 31 characters.
+Registration failed.
+vcs2011>
+vcs2011>
+Quitting...

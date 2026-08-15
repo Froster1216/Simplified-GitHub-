@@ -1,0 +1,14 @@
+-----------------------------------------------------
+| Welcome to Version Control System 2011 (VCS2011)! |
+-----------------------------------------------------
+
+vcs2011>
+Attempting to register new user: Alice
+Registration successful.
+User: Alice
+vcs2011>
+Attempting to create repository: Alice/ThisIsAVeryLongRepoNameThatExceedsTheMaximumCharacterLimit
+Repository name length exceeded 31 characters.
+Repository creation failed.
+vcs2011>
+Quitting...

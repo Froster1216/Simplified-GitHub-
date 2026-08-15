@@ -1,0 +1,11 @@
+register Alice
+register Bob
+register Charlie
+repocreate Alice Repo1 2026-03-01T10:00:00Z
+repocreate Alice Repo2 2026-03-01T11:00:00Z
+forkrepo Bob Alice/Repo1 Repo1
+deregister Alice
+users
+repos
+repoinfo Bob/Repo1
+quit

@@ -1,0 +1,5 @@
+register Alice
+repocreate Alice Repo 2026-03-01T10:00:00Z
+branchcreate Alice/Repo feat Alice
+branchcreate Alice/Repo feat Alice
+quit

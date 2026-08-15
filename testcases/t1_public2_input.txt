@@ -1,0 +1,4 @@
+register Alice
+register Alice
+users
+quit

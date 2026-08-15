@@ -1,0 +1,8 @@
+register Alice
+register Bob
+repocreate Alice Repo 2026-03-01T10:00:00Z
+repotransfer Alice/Repo Bob
+repos
+userinfo Alice
+userinfo Bob
+quit

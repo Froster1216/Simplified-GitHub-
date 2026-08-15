@@ -1,0 +1,17 @@
+-----------------------------------------------------
+| Welcome to Version Control System 2011 (VCS2011)! |
+-----------------------------------------------------
+
+vcs2011>
+Attempting to register new user: Alice
+Registration successful.
+User: Alice
+vcs2011>
+Attempting to create repository: Alice/Repo1
+Repository creation successful.
+Repository is at index 0 in the array of repositories.
+vcs2011>
+Attempting to create repository: Alice/Repo1
+Repository Alice/Repo1 already exists.Repository creation failed.
+vcs2011>
+Quitting...

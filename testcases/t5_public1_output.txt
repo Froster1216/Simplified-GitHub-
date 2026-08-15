@@ -1,0 +1,33 @@
+-----------------------------------------------------
+| Welcome to Version Control System 2011 (VCS2011)! |
+-----------------------------------------------------
+
+vcs2011>
+Attempting to register new user: Alice
+Registration successful.
+User: Alice
+vcs2011>
+Attempting to register new user: Bob
+Registration successful.
+User: Bob
+vcs2011>
+Attempting to create repository: Alice/Repo
+Repository creation successful.
+Repository is at index 0 in the array of repositories.
+vcs2011>
+Repository Alice/Repo has been transferred to Bob.
+vcs2011>
+Bob/Repo
+vcs2011>
+Alice
+
+Repositories (0):
+
+vcs2011>
+Bob
+
+Repositories (1):
+Bob/Repo
+
+vcs2011>
+Quitting...

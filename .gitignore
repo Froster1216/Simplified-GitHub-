@@ -1,0 +1,20 @@
+# Build outputs
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+
+# Temporary and generated files
+tmp_*.cpp
+tmp_*.txt
+output_t*.txt
+test_output.txt
+*.log
+*.tmp
+
+# Editor and OS files
+.vscode/
+.DS_Store
+__MACOSX/

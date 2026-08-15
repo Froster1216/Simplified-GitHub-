@@ -1,0 +1,16 @@
+-----------------------------------------------------
+| Welcome to Version Control System 2011 (VCS2011)! |
+-----------------------------------------------------
+
+vcs2011>
+Attempting to register new user: Alice
+Registration successful.
+User: Alice
+vcs2011>
+Attempting to register new user: Alice
+User Alice already exists.
+Registration failed.
+vcs2011>
+Alice
+vcs2011>
+Quitting...

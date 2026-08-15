@@ -1,0 +1,4 @@
+register Alice
+register Bob
+forkrepo Bob Alice/NoRepo NoRepo
+quit
